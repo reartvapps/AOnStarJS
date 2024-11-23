@@ -1,5 +1,5 @@
 {
-  "name": "onstarjs",
+  "name": "ashonstarjs",
   "version": "2.5.4",
   "description": "Unofficial package for making OnStar API requests",
   "main": "dist/index.cjs",
